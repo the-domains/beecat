@@ -1,0 +1,14 @@
+layout_spectrum: 0.3984109
+color:
+  saturation: 0.5246457
+  lightness: 0.2841232
+  brandStrength: 0.8398945
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#FBCE00'
+    - '#CECFCF'
+    - '#BC9A00'
+  rhythmicContrast: 0.02426876
+typography_spectrum: 0.6326478
+name: Beecat
